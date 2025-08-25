@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\Front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAC3709-5FE1-420B-82C8-FF6A96F2204B}|Front.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAC3709-5FE1-420B-82C8-FF6A96F2204B}|Front.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\bibliotecadeclases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibliotecaDeClases",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+              "RelativeToolTip": "..\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T21:38:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\Class1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\Class1.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClases\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:32:17.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\Front\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\Front\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:28:32.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
