@@ -47,7 +47,11 @@
                     Console.WriteLine("\nPresione una tecla para continuar...");
                     Console.ReadKey();
                     break;
-               
+
+                default:
+
+                    break;
+
             }
 
             Console.Clear();
