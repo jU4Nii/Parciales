@@ -49,7 +49,9 @@
                     break;
 
                 default:
-
+                    Console.WriteLine("Opción inexistente");
+                    Console.WriteLine("\nPresione una tecla para volver a elegir...");
+                    Console.ReadKey();
                     break;
 
             }
