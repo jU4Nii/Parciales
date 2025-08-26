@@ -92,7 +92,7 @@
 
         //Se usa: DateTime fechaViaje = PedirFecha("Ingrese la fecha del viaje (dd/MM/yyyy):");
         //Console.WriteLine("Fecha ingresada: " + fechaViaje.ToShortDateString());
-
+        ////DateTime fechaPrestamo = DateTime.Now.Date;
         
 
         public static string IngresarString(string mensaje)
