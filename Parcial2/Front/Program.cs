@@ -114,6 +114,37 @@
 
         }
 
+        /*
+         public static void ValidarDuplicacion(Publicacion LibroAValidar)
+        {
 
+            bool duplicado = false;
+
+            for (int i = 0; i < Publicacion.ListaPublicaciones.Count; i++)
+            {
+
+                if (Publicacion.ListaPublicaciones[i].Titulo == LibroAValidar.Titulo)
+                {
+
+                    duplicado = true;
+                    break;
+
+                }
+
+            }
+
+            if (duplicado) Console.WriteLine("La publicación ya existe en la base de datos");
+            else
+            {
+                Publicacion.AñadirPublicacion(LibroAValidar);
+                Console.WriteLine("¡Publicacion añadida exitosamente!");
+
+            }
+
+                
+
+        }
+      
+        */
     }
 }
