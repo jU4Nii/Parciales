@@ -16,3 +16,4 @@ C:\Users\juani\OneDrive\Documentos\GitHub\Parciales\Parcial2\Front\obj\Debug\net
 C:\Users\juani\OneDrive\Documentos\GitHub\Parciales\Parcial2\Front\obj\Debug\net8.0\Front.pdb
 C:\Users\juani\OneDrive\Documentos\GitHub\Parciales\Parcial2\Front\obj\Debug\net8.0\Front.genruntimeconfig.cache
 C:\Users\juani\OneDrive\Documentos\GitHub\Parciales\Parcial2\Front\obj\Debug\net8.0\ref\Front.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\Parciales\Parcial2\Front\obj\Debug\net8.0\Front.sourcelink.json

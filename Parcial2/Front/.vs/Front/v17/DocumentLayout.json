@@ -7,7 +7,19 @@
       "RelativeMoniker": "D:0:0:{3EAC3709-5FE1-420B-82C8-FF6A96F2204B}|Front.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\generadorid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC5BDA-F2F2-403B-B589-7B43EA135710}|..\\BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\juani\\onedrive\\documentos\\github\\parciales\\parcial2\\bibliotecadeclases\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,17 +29,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroDigital.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\LibroDigital.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\LibroDigital.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\LibroDigital.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClases\\LibroDigital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:12:37.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroFisico.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\LibroFisico.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\LibroFisico.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\LibroFisico.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClases\\LibroFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:10:43.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\Prestamo.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\Prestamo.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClases\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:06:42.836Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\Libro.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\Libro.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\Libro.cs",
+              "RelativeToolTip": "..\\BibliotecaDeClases\\Libro.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:02:24.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GeneradorId.cs",
               "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\GeneradorId.cs",
               "RelativeDocumentMoniker": "..\\BibliotecaDeClases\\GeneradorId.cs",
               "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\BibliotecaDeClases\\GeneradorId.cs",
               "RelativeToolTip": "..\\BibliotecaDeClases\\GeneradorId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T21:32:17.854Z"
             },
@@ -39,7 +99,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Parciales\\Parcial2\\Front\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAgwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T21:28:32.877Z",
               "EditorCaption": ""
